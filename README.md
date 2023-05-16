@@ -5,7 +5,7 @@ I am a Computer science engineering student and an Apple Developer Academy learn
 During my year at the Apple Developer Academy began my interest in the Swift language and in IOS development.
 
 🧑🏻‍💻✨
-Thanks to the academy experience i get inspired a lot, I'm improving my hard skills in Swift but i have also some knwoledge in User Experience and in User Interface.
+Thanks to the academy experience i got inspired a lot, I'm improving my hard skills in Swift but i have also some knwoledge in User Experience and in User Interface.
 I like to work and develope in team and overcome difficulties together, I really love helping others even in fields that don't belong to me.
 
 🖇️ Referreal links:
